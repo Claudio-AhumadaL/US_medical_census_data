@@ -1,2 +1,2 @@
 # US_medical_census_data
- Portfolio Project for Data Science Career Path on Codecademy
+ Portfolio Project for Codecademy's Data Science Career Path
